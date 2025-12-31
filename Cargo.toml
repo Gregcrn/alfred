@@ -1,0 +1,19 @@
+[package]
+name = "alfred-clean"
+version = "0.1.0"
+edition = "2024"
+authors = ["Gregory Corin"]
+description = "🧤 Alfred - A blazingly fast CLI tool to automatically organize your folders"
+license = "MIT"
+repository = "https://github.com/gregcrn/alfred"
+homepage = "https://github.com/gregcrn/alfred"
+readme = "README.md"
+keywords = ["cli", "files", "organizer", "automation", "productivity"]
+categories = ["command-line-utilities", "filesystem"]
+
+[dependencies]
+notify = "6.1.1"
+dirs = "5.0.0"
+colored = "3.0.0"
+indicatif = "0.18.3"
+clap = { version = "4.5.53", features = ["derive"] }
