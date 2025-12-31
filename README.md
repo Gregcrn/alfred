@@ -88,7 +88,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 **Gregory Corin**
 - GitHub: [@gregcrn](https://github.com/gregcrn)
-- LinkedIn: [Gregory Corin](www.linkedin.com/in/gregory-corin)
+- LinkedIn: [Gregory Corin](https://www.linkedin.com/in/gregory-corin)
 
 ---
 
